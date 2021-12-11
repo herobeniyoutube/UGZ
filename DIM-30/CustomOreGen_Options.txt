@@ -1,5 +1,5 @@
 #Custom Ore Generation 1.2.24 Config Options
-#Fri Dec 10 16:54:28 MSK 2021
+#Sat Dec 11 15:27:33 MSK 2021
 drawWireframes=true
 COGActive=true
 deferredPopulationRange=16.0
