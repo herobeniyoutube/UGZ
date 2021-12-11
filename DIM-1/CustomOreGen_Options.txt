@@ -1,0 +1,7 @@
+#Custom Ore Generation 1.2.24 Config Options
+#Fri Dec 10 16:54:28 MSK 2021
+drawWireframes=true
+COGActive=true
+deferredPopulationRange=16.0
+vanillaOreGen=false
+debugDist=false
